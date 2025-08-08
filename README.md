@@ -42,8 +42,8 @@ Este proyecto puede usarse como punto de partida para aprender búsqueda heurís
 ## 🛠 Requisitos previos
 
 - **Un IDE cómo Visual Studio Code**
-- Git instalado en tu máquina
-- (Opcional) Buena comprensión del `DOM`
+- **Git instalado en tu máquina**
+- **(Opcional) Buena comprensión del `DOM`**
 
 ---
 
@@ -51,8 +51,7 @@ Este proyecto puede usarse como punto de partida para aprender búsqueda heurís
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/tu-usuario/8-puzzle-solver.git
-   cd 8-puzzle-solver
+   git clone https://github.com/Ing-Davidson/challenge-amigo-secreto.git
 
 ## 🔧 [Estructura del proyecto](#-estructura-del-proyecto)
 - _Un fichero HTML_ **`index.html`**
